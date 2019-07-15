@@ -98,7 +98,7 @@
 | 179         | Largest Number                                         | 很少考         |
 | 6           | ZigZag Conversion                                      | 很少考         |
 | 161         | One Edit Distance                                      |                |
-| 38          | Count and Say                                          |                |
+| 38          | Count and Say                                          | +              |
 | 358         | Rearrange String k Distance Apart                      |                |
 | 316         | Remove Duplicate Letters                               |                |
 | 271         | Encode and Decode Strings                              |                |
@@ -334,17 +334,17 @@
 | ---- | ------------------------------------- |
 | 206  | Reverse Linked List                   |
 | 141  | Linked List Cycle                     |
-| 24   | Swap Nodes in Pairs                   |
+| 24   | Swap Nodes in Pairs+                  |
 | 328  | Odd Even Linked List                  |
 | 92   | Reverse Linked List II                |
-| 237  | Delete Node in a Linked List          |
-| 19   | Remove Nth Node From End of List      |
-| 83   | Remove Duplicates from Sorted List    |
+| 237  | Delete Node in a Linked List+         |
+| 19   | Remove Nth Node From End of List+     |
+| 83   | Remove Duplicates from Sorted List+   |
 | 203  | Remove Linked List Elements           |
 | 82   | Remove Duplicates from Sorted List II |
 | 369  | Plus One Linked List                  |
 | 2    | Add Two Numbers                       |
-| 160  | Intersection of Two Linked Lists      |
+| 160  | Intersection of Two Linked Lists+     |
 | 21   | Merge Two Sorted Lists                |
 | 提高 |                                       |
 | 234  | Palindrome Linked List                |
@@ -352,7 +352,7 @@
 | 142  | Linked List Cycle II                  |
 | 148  | Sort List                             |
 | 25   | Reverse Nodes in k-Group              |
-| 61   | Rotate List                           |
+| 61   | Rotate List+                          |
 | 86   | Partition List                        |
 | 23   | Merge k Sorted Lists                  |
 | 147  | Insertion Sort List                   |
@@ -369,11 +369,11 @@
 | 81   | Search in Rotated Sorted Array II       |
 | 153  | Find Minimum in Rotated Sorted Array+   |
 | 154  | Find Minimum in Rotated Sorted Array II |
-| 162  | Find Peak Element                       |
-| 374  | Guess Number Higher or Lower            |
-| 34   | Search for a Range                      |
-| 349  | Intersection of Two Arrays              |
-| 350  | Intersection of Two Arrays II           |
+| 162  | Find Peak Element+                      |
+| 374  | Guess Number Higher or Lower+           |
+| 34   | Search for a Range+                     |
+| 349  | Intersection of Two Arrays+             |
+| 350  | Intersection of Two Arrays II+          |
 | 315  | Count of Smaller Numbers After Self     |
 | 300  | Longest Increasing Subsequence          |
 | 354  | Russian Doll Envelopes                  |
