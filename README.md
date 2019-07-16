@@ -332,8 +332,8 @@
 
 | 基础 |                                       |
 | ---- | ------------------------------------- |
-| 206  | Reverse Linked List                   |
-| 141  | Linked List Cycle                     |
+| 206  | Reverse Linked List+                  |
+| 141  | Linked List Cycle+                    |
 | 24   | Swap Nodes in Pairs+                  |
 | 328  | Odd Even Linked List                  |
 | 92   | Reverse Linked List II                |
@@ -343,13 +343,13 @@
 | 203  | Remove Linked List Elements           |
 | 82   | Remove Duplicates from Sorted List II |
 | 369  | Plus One Linked List                  |
-| 2    | Add Two Numbers                       |
+| 2    | Add Two Numbers+                      |
 | 160  | Intersection of Two Linked Lists+     |
-| 21   | Merge Two Sorted Lists                |
+| 21   | Merge Two Sorted Lists+               |
 | 提高 |                                       |
 | 234  | Palindrome Linked List                |
 | 143  | Reorder List                          |
-| 142  | Linked List Cycle II                  |
+| 142  | Linked List Cycle II+                 |
 | 148  | Sort List                             |
 | 25   | Reverse Nodes in k-Group              |
 | 61   | Rotate List+                          |
@@ -382,9 +382,9 @@
 
 ### 1.3.9. Matrix
 
-| 48   | Rotate Image                              |
+| 48   | Rotate Image+                             |
 | ---- | ----------------------------------------- |
-| 54   | Spiral Matrix                             |
+| 54   | Spiral Matrix-                            |
 | 59   | Spiral Matrix II                          |
 | 73   | Set Matrix Zeroes                         |
 | 311  | Sparse Matrix Multiplication              |
@@ -409,11 +409,11 @@
 | ---- | ------------------------- | ---- |
 | 200  | Number of Islands         |      |
 | 286  | Walls and Gates           |      |
-| 130  | Surrounded Regions        |      |
+| 130  | Surrounded Regions+       |      |
 | 339  | Nested List Weight Sum    |      |
 | 364  | Nested List Weight Sum II |      |
 | 127  | Word Ladder               |      |
-| 51   | N-Queens                  |      |
+| 51   | N-Queens+                 |      |
 | 52   | N-Queens II               |      |
 | 126  | Word Ladder II            |      |
 
@@ -450,8 +450,8 @@
 
 | 基础   |                                 |
 | ------ | ------------------------------- |
-| 389    | Find the Difference             |
-| 136    | Single Number                   |
+| 389    | Find the Difference+            |
+| 136    | Single Number+                  |
 | 318    | Maximum Product of Word Lengths |
 |        |                                 |
 | 很少考 |                                 |
