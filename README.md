@@ -21,11 +21,11 @@
 | 243      | Shortest Word Distance                        |                |
 | 244      | Shortest Word Distance II                     |                |
 | 245      | Shortest Word Distance III                    |                |
-| 217      | Contains Duplicate                            |                |
-| 219      | Contains Duplicate II                         | 很少考         |
+| 217      | Contains Duplicate                            | +              |
+| 219      | Contains Duplicate II                         | 很少考+        |
 | 220      | Contains Duplicate III                        | 很少考         |
 | 55       | Jump Game                                     |                |
-| 45       | Jump Game II                                  |                |
+| 45       | Jump Game II                                  | +              |
 | 121      | Best Time to Buy and Sell Stock               |                |
 | 122      | Best Time to Buy and Sell Stock II            |                |
 | 123      | Best Time to Buy and Sell Stock III           |                |
@@ -80,13 +80,13 @@
 | ----------- | ------------------------------------------------------ | -------------- |
 | 28          | Implement strStr()                                     |                |
 | 14          | Longest Common Prefix                                  |                |
-| 58          | Length of Last Word                                    |                |
+| 58          | Length of Last Word                                    | +              |
 | 387         | First Unique Character in a String                     |                |
 | 383         | Ransom Note                                            |                |
-| 344         | Reverse String                                         |                |
+| 344         | Reverse String                                         | +              |
 | 151         | Reverse Words in a String                              |                |
 | 186         | Reverse Words in a String II                           |                |
-| 345         | Reverse Vowels of a String                             |                |
+| 345         | Reverse Vowels of a String                             | +              |
 | 205         | Isomorphic Strings                                     |                |
 | 293         | Flip Game                                              |                |
 | 294         | Flip Game II                                           |                |
@@ -340,7 +340,7 @@
 | 237  | Delete Node in a Linked List+         |
 | 19   | Remove Nth Node From End of List+     |
 | 83   | Remove Duplicates from Sorted List+   |
-| 203  | Remove Linked List Elements           |
+| 203  | Remove Linked List Elements-          |
 | 82   | Remove Duplicates from Sorted List II |
 | 369  | Plus One Linked List                  |
 | 2    | Add Two Numbers+                      |
