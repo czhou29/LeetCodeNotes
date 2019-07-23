@@ -26,8 +26,8 @@
 | 220      | Contains Duplicate III                        | 很少考         |
 | 55       | Jump Game                                     |                |
 | 45       | Jump Game II                                  | +              |
-| 121      | Best Time to Buy and Sell Stock               |                |
-| 122      | Best Time to Buy and Sell Stock II            |                |
+| 121      | Best Time to Buy and Sell Stock               | +              |
+| 122      | Best Time to Buy and Sell Stock II            | +              |
 | 123      | Best Time to Buy and Sell Stock III           |                |
 | 188      | Best Time to Buy and Sell Stock IV            |                |
 | 309      | Best Time to Buy and Sell Stock with Cooldown |                |
@@ -104,7 +104,7 @@
 | 271         | Encode and Decode Strings                              |                |
 | 168         | Excel Sheet Column Title                               |                |
 | 171         | Excel Sheet Column Number                              |                |
-| 13          | Roman to Integer                                       |                |
+| 13          | Roman to Integer                                       | +              |
 | 12          | Integer to Roman                                       |                |
 | 273         | Integer to English Words                               |                |
 | 246         | Strobogrammatic Number                                 |                |
@@ -126,7 +126,7 @@
 | 159         | Longest Substring with At Most Two Distinct Characters | Sliding Window |
 |             |                                                        |                |
 | Palindrome  |                                                        |                |
-| 125         | Valid Palindrome                                       |                |
+| 125         | Valid Palindrome                                       | +              |
 | 266         | Palindrome Permutation                                 |                |
 | 5           | Longest Palindromic Substring                          |                |
 | 9           | Palindrome Number                                      |                |
@@ -208,7 +208,7 @@
 | 144       | Binary Tree Preorder Traversal                             | preorder             |
 | 94        | Binary Tree Inorder Traversal                              | Inorder              |
 | 145       | Binary Tree Postorder Traversal                            | postorder            |
-| 102       | Binary Tree Level Order Traversal                          | DFS + BFS            |
+| 102       | Binary Tree Level Order Traversal                          | DFS + BFS+           |
 |           |                                                            |                      |
 | Preorder  |                                                            |                      |
 | 100       | Same Tree                                                  | preorder             |
@@ -235,9 +235,9 @@
 | 199       | Binary Tree Right Side View                                | BFS + preorder       |
 |           |                                                            |                      |
 | BST       |                                                            |                      |
-| 98        | Validate Binary Search Tree                                | preorder             |
+| 98        | Validate Binary Search Tree                                | preorder+            |
 | 235       | Lowest Common Ancestor of a Binary Search Tree             | preorder             |
-| 236       | Lowest Common Ancestor of a Binary Tree                    | postorder            |
+| 236       | Lowest Common Ancestor of a Binary Tree                    | postorder+           |
 | 108       | Convert Sorted Array to Binary Search Tree                 | binary search        |
 | 109       | Convert Sorted List to Binary Search Tree                  | binary search        |
 | 173       | Binary Search Tree Iterator                                | inorder              |
