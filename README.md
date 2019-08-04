@@ -128,7 +128,7 @@
 | Palindrome  |                                                        |                |
 | 125         | Valid Palindrome                                       | +              |
 | 266         | Palindrome Permutation                                 |                |
-| 5           | Longest Palindromic Substring                          |                |
+| 5           | Longest Palindromic Substring                          | +              |
 | 9           | Palindrome Number                                      |                |
 | 214         | Shortest Palindrome                                    |                |
 | 336         | Palindrome Pairs                                       |                |
@@ -155,7 +155,7 @@
 | 基础   |                                    |        |
 | ------ | ---------------------------------- | ------ |
 | 7      | Reverse Integer                    |        |
-| 165    | Compare Version Numbers            |        |
+| 165    | Compare Version Numbers            | +      |
 | 66     | Plus One                           |        |
 | 8      | String to Integer (atoi)           |        |
 | 258    | Add Digits                         |        |
