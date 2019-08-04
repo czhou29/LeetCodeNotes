@@ -92,7 +92,7 @@
 | 294         | Flip Game II                                           |                |
 | 290         | Word Pattern                                           |                |
 | 242         | Valid Anagram                                          |                |
-| 49          | Group Anagrams                                         |                |
+| 49          | Group Anagrams                                         | +              |
 | 249         | Group Shifted Strings                                  |                |
 | 87          | Scramble String                                        |                |
 | 179         | Largest Number                                         | 很少考         |
@@ -206,14 +206,14 @@
 | 基础      |                                                            |                      |
 | --------- | ---------------------------------------------------------- | -------------------- |
 | 144       | Binary Tree Preorder Traversal                             | preorder             |
-| 94        | Binary Tree Inorder Traversal                              | Inorder              |
+| 94        | Binary Tree Inorder Traversal                              | Inorder+             |
 | 145       | Binary Tree Postorder Traversal                            | postorder            |
 | 102       | Binary Tree Level Order Traversal                          | DFS + BFS+           |
 |           |                                                            |                      |
 | Preorder  |                                                            |                      |
-| 100       | Same Tree                                                  | preorder             |
-| 101       | Symmetric Tree                                             | preorder             |
-| 226       | Invert Binary Tree                                         | preorder + BFS       |
+| 100       | Same Tree                                                  | preorder+            |
+| 101       | Symmetric Tree                                             | preorder+            |
+| 226       | Invert Binary Tree                                         | preorder + BFS+      |
 | 257       | Binary Tree Paths                                          | preorder             |
 | 112       | Path Sum                                                   | preorder             |
 | 113       | Path Sum II                                                | preorder             |
@@ -222,8 +222,8 @@
 | 111       | Minimum Depth of Binary Tree                               | preorder             |
 |           |                                                            |                      |
 | Postorder |                                                            |                      |
-| 104       | Maximum Depth of Binary Tree                               | postorder            |
-| 110       | Balanced Binary Tree                                       | postorder            |
+| 104       | Maximum Depth of Binary Tree                               | postorder+           |
+| 110       | Balanced Binary Tree                                       | postorder+           |
 | 124       | Binary Tree Maximum Path Sum                               | postorder            |
 | 250       | Count Univalue Subtrees                                    | postorder            |
 | 366       | Find Leaves of Binary Tree                                 | postorder            |
