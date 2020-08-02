@@ -1,0 +1,45 @@
+## 5 Longest Palindromic Substring
+
+```java
+class Solution {
+    public String longestPalindrome(String s) {
+        if(s.length() == 0) return "";
+        int maxl = 0;
+        String maxs = "";
+        for (int i = 0; i < s.length(); i++) {
+            int l = i-1, r = i+1;
+            while(l >= 0 && r < s.length()) {
+                if (s.charAt(l) == s.charAt(r)) {
+                    l--;
+                    r++;
+                } else {
+                    break;
+                }
+            }
+            if (maxl < r-l-1) {
+                maxl = r-l-1;
+                maxs = s.substring(l+1, r);
+            }
+        }
+        for (int i = 0; i < s.length(); i++) {
+            int l = i, r = i+1;
+            if(l < 0 || r >= s.length()) continue;
+            if(s.charAt(l) != s.charAt(r)) continue;
+            while(l >= 0 && r < s.length()) {
+                if (s.charAt(l) == s.charAt(r)) {
+                    l--;
+                    r++;
+                } else {
+                    break;
+                }
+            }
+            if (maxl < r-l-1) {
+                maxl = r-l-1;
+                maxs = s.substring(l+1, r);
+            }
+        }
+        return maxs;
+    }
+}
+```
+

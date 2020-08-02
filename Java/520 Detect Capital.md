@@ -1,0 +1,22 @@
+## 520 Detect Capital
+
+```java
+class Solution {
+    public boolean detectCapitalUse(String word) {
+        int u = 0, l = 0, ulp = -1;
+        for(int i = 0; i < word.length(); i++) {
+            if(word.charAt(i) >= 'a' && word.charAt(i) <= 'z') {
+                l++;
+            } else {
+                u++;
+                ulp = i;
+            }
+        }
+        if (u == 0 && l != 0) return true;
+        if (u != 0 && l == 0) return true;
+        if (u == 1 && ulp == 0) return true;
+        return false;
+    }
+}
+```
+
